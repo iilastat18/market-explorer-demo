@@ -16,6 +16,8 @@
 
 ![Market explorer demo](assets/explorer-home.png)
 
+## Overview
+
 Instead of stopping at a dashboard table, this project demonstrates a fuller workflow:
 
 1. filter a universe
@@ -26,7 +28,7 @@ Instead of stopping at a dashboard table, this project demonstrates a fuller wor
 
 Everything in this repo is synthetic and safe to publish.
 
-## What This Project Shows
+## Highlights
 
 - a stock universe explorer with filters for region, sector, liquidity, spread, and score
 - a composite ranking model built from liquidity, momentum, quality, and value pillars
@@ -34,7 +36,7 @@ Everything in this repo is synthetic and safe to publish.
 - a detail panel with synthetic price history and factor breakdown
 - a UI that reads like a real internal data product rather than a notebook screenshot
 
-## Scoring Logic
+## Ranking Profiles
 
 The app supports multiple ranking profiles:
 
@@ -61,7 +63,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Structure
+## Project Structure
 
 ```text
 market-explorer-demo/
@@ -76,5 +78,5 @@ market-explorer-demo/
 
 ## Notes
 
-- all symbols, company names, metrics, rankings, and price histories are synthetic
-- the point is to demonstrate explorer / screener product design, not proprietary investment logic
+- All symbols, company names, metrics, rankings, and price histories are synthetic.
+- The point is to demonstrate explorer / screener product design, not proprietary investment logic.
