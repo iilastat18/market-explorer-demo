@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Market Explorer Demo</h1>
-  <p><strong>A public-safe explorer / screener for filtering, scoring, ranking, and inspecting a market universe.</strong></p>
+  <p><strong>An explorer / screener for filtering, scoring, ranking, and inspecting a market universe.</strong></p>
   <p>Designed to feel like a real internal data product rather than a single dashboard table.</p>
 </div>
 
@@ -11,10 +11,6 @@
   <code>factor scoring</code>
   <code>streamlit product demo</code>
 </p>
-
-## Portfolio Role
-
-This is the explorer / screener repo in the portfolio. It extends the dashboard skill set into a more product-oriented workflow: filter a universe, rank candidates, then explain why they surfaced.
 
 ## Preview
 
@@ -56,15 +52,6 @@ Each profile reweights four pillars:
 
 This makes the explorer feel more like a real screener product, where the ranking logic changes depending on the use case.
 
-## Why This Fits The Portfolio
-
-This project complements the rest of the portfolio well:
-
-- `public-dashboard-portfolio-demo` shows dashboard and product design
-- `market-microstructure-study` shows research thinking
-- `data-quality-toolkit` shows internal tooling and validation
-- `market-explorer-demo` shows screening, ranking, and data-product workflow
-
 ## Quick Start
 
 ```bash
@@ -91,9 +78,3 @@ market-explorer-demo/
 
 - all symbols, company names, metrics, rankings, and price histories are synthetic
 - the point is to demonstrate explorer / screener product design, not proprietary investment logic
-
-## Screenshot Strategy
-
-- lead with the hero plus `Universe Map`
-- use one screenshot of the `Candidate Detail` panel
-- use one screenshot of the ranked board or universe table
