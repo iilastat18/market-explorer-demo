@@ -16,6 +16,10 @@
 
 This is the explorer / screener repo in the portfolio. It extends the dashboard skill set into a more product-oriented workflow: filter a universe, rank candidates, then explain why they surfaced.
 
+## Preview
+
+![Market explorer demo](assets/explorer-home.png)
+
 Instead of stopping at a dashboard table, this project demonstrates a fuller workflow:
 
 1. filter a universe
