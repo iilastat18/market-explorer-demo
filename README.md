@@ -79,4 +79,4 @@ market-explorer-demo/
 ## Notes
 
 - All symbols, company names, metrics, rankings, and price histories are synthetic.
-- The point is to demonstrate explorer / screener product design, not proprietary investment logic.
+- The app focuses on explorer / screener product design and ranking workflows.

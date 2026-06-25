@@ -46,7 +46,7 @@ st.markdown(
         "<div class='hero-kicker'>Portfolio Project 04</div>"
         "<div class='hero-title'>Market Explorer Demo</div>"
         "<div class='hero-copy'>"
-        "A public-safe stock universe explorer with filter, score, ranking, and detail workflows. "
+        "A stock universe explorer with filter, score, ranking, and detail workflows. "
         "The goal is to show product thinking around screeners: not just a table, but a way to narrow a universe, "
         "surface candidates, and explain why a name ranks where it does."
         "</div>"
